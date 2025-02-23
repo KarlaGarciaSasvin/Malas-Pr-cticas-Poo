@@ -32,7 +32,7 @@ class MallardDuck extends Duck implements Flyable, Quackable {
     }
 
     public void quack() {
-        System.out.println("MallardDuck esta haciendo quak");
+        System.out.println("MallardDuck esta haciendo quack");
     }
 
     @Override
